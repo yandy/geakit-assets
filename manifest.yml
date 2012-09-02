@@ -11,6 +11,7 @@ blog-rss.png: blog-rss-ea3afe03a9bfd18bf8dd39396b8b2f76.png
 blog-sina.png: blog-sina-7fa42f1a1f332fd261b1c5d572cdb0fc.png
 blog-twitter.png: blog-twitter-eb7c96e887f796bab55f5b1835d93316.png
 body.gif: body-586bada7af243c0d7081e0bb1c6b108f.gif
+comment_add.png: comment_add-c934f08d898f360583327f862734ab6a.png
 default.png: default-a22a639be0b3f0d5ab6b53386c27e17d.png
 diff_file_add.png: diff_file_add-62783031c515bc7628139e06d4110aa9.png
 diff_file_delete.png: diff_file_delete-f32fa1947c42a38082dd777601b804c8.png
@@ -40,6 +41,6 @@ us.jpg: us-b5854099fda1f84aebc9c149e5a0770b.jpg
 xiezuokaifa.png: xiezuokaifa-82cc46757a915150a01fdd3eb4a9f81e.png
 yuchao.jpg: yuchao-e5caba13f25039094380984f1f04f546.jpg
 yuping.jpg: yuping-cbb5bc2bbb549f75f46c17ff2598ac67.jpg
-application.js: application-eccf76131212c0566b9fa562f94a7f34.js
-application.css: application-a01b110791cb6a9e2c02e55a598a9aae.css
+application.js: application-859a955d8718ccea96feac810b2c16ee.js
+application.css: application-0c18d32589c460502e7aa7e3291f304c.css
 glyphicons-halflings-white.png: glyphicons-halflings-white-13553a5bf21ae3cc374006592488ec64.png
