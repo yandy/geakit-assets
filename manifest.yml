@@ -27,7 +27,7 @@ feature4.png: feature4-a6fbd048085caf3322bc10b3f69358f2.png
 file.png: file-6d85e7a8418604a452f7db867b505704.png
 footer-monkey.png: footer-monkey-12256866fed79b9d9c19d183d00eb38c.png
 forks.png: forks-4bb3247e1d792ba5ab6242288e06013f.png
-glyphicons-halflings.png: glyphicons-halflings-0e7ff93d8f48fe1f5f762e4312e78da7.png
+glyphicons-halflings.png: glyphicons-halflings-2c184aa78a0986a668afe6c0361a28d0.png
 guide-explore.png: guide-explore-45db2854aa6c737ffef50daa4681efdf.png
 guide-help.png: guide-help-8fda6cc75ec7297e9d3dbfd999fa6ec4.png
 guide-org.png: guide-org-0b273efc418a480bee05afe3a06127a8.png
@@ -47,8 +47,8 @@ us.jpg: us-b5854099fda1f84aebc9c149e5a0770b.jpg
 xiezuokaifa.png: xiezuokaifa-82cc46757a915150a01fdd3eb4a9f81e.png
 yuchao.jpg: yuchao-e5caba13f25039094380984f1f04f546.jpg
 yuping.png: yuping-8c61edb031cd418dcef45bcd8e206011.png
-application.js: application-fb2b6b1d020d0cbe4327305953e67e61.js
-application.css: application-6a450b6caec86821561393be4c15a9d1.css
+application.js: application-838abec54044ab1e54c558bae5190ca6.js
+application.css: application-af381aa1a255e7288e29fd472a83a54d.css
 sprites/social-share-button.png: sprites/social-share-button-1ca0f83dafee148f3c7d4e8b313a1ade.png
 sprites/social-share-button/baidu.png: sprites/social-share-button/baidu-706b4a253eb97a54b9540fd336adb57c.png
 sprites/social-share-button/delicious.png: sprites/social-share-button/delicious-fab00e8e923a0de5af886914d89541c2.png
